@@ -10,4 +10,4 @@ loaderService.done(() => {
 });
 
 const wizard = new Wizard();
-scene.addItem(wizard);
+scene.addItem(wizard, 'PLAYER');

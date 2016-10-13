@@ -12,6 +12,7 @@ class Scene {
     this.canvas.width = document.documentElement.clientWidth - 4;
     this.canvas.height = document.documentElement.clientHeight - 4;
     this.ctx = canvas.getContext('2d');
+    this.ctx.save();
     this.layers = Object.keys(layersMap).map(() => []);
   }
 

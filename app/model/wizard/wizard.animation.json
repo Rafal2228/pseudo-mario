@@ -27,11 +27,5 @@
     "app/assets/wizard/run_2.png",
     "app/assets/wizard/run_3.png",
     "app/assets/wizard/run_4.png"
-  ],
-  "jump": [
-    "app/assets/wizard/run_1.png",
-    "app/assets/wizard/run_2.png",
-    "app/assets/wizard/run_3.png",
-    "app/assets/wizard/run_4.png"
   ]
 }
