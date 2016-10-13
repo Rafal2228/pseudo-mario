@@ -1,0 +1,37 @@
+{
+  "idle": [
+    "app/assets/wizard/idle_1.png",
+    "app/assets/wizard/idle_2.png",
+    "app/assets/wizard/idle_3.png",
+    "app/assets/wizard/idle_4.png"
+  ],
+  "dead": [
+    "app/assets/wizard/dead_1.png",
+    "app/assets/wizard/dead_2.png",
+    "app/assets/wizard/dead_3.png",
+    "app/assets/wizard/dead_4.png"
+  ],
+  "atack": [
+    "app/assets/wizard/attack_1.png",
+    "app/assets/wizard/attack_2.png",
+    "app/assets/wizard/attack_3.png"
+  ],
+  "walk": [
+    "app/assets/wizard/walk_1.png",
+    "app/assets/wizard/walk_2.png",
+    "app/assets/wizard/walk_3.png",
+    "app/assets/wizard/walk_4.png"
+  ],
+  "run": [
+    "app/assets/wizard/run_1.png",
+    "app/assets/wizard/run_2.png",
+    "app/assets/wizard/run_3.png",
+    "app/assets/wizard/run_4.png"
+  ],
+  "jump": [
+    "app/assets/wizard/run_1.png",
+    "app/assets/wizard/run_2.png",
+    "app/assets/wizard/run_3.png",
+    "app/assets/wizard/run_4.png"
+  ]
+}
