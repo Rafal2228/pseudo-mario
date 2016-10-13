@@ -1,4 +1,4 @@
-import { Wizard, Scene } from "./model";
+import { Wizard, Scene, StaticBackground } from "./model";
 import { loaderService } from "./service";
 
 // Setup scene and loader callback
@@ -11,3 +11,6 @@ loaderService.done(() => {
 
 const wizard = new Wizard();
 scene.addItem(wizard, 'PLAYER');
+
+const forest = new StaticBackground('app/assets/background/forest.jpg');
+scene.addItem(forest);
